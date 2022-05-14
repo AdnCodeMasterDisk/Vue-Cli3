@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkhello_world"]=self["webpackChunkhello_world"]||[]).push([[443],{908:function(n,e,r){r.r(e),r.d(e,{default:function(){return h}});var u=r(252);const l={class:"about"},t=(0,u._)("h1",null,"This is an about page",-1),a=[t];function o(n,e){return(0,u.wg)(),(0,u.iD)("div",l,a)}var s=r(744);const c={},i=(0,s.Z)(c,[["render",o]]);var h=i}}]);
